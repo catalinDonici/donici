@@ -1,1 +1,1 @@
-print 'Hello, 2021!'
+print 'Hello, world!'
